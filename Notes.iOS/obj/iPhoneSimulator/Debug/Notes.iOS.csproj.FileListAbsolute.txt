@@ -56,3 +56,8 @@ C:\Users\Hp\Documents\Programming\App Development\Notes\Notes.iOS\obj\iPhoneSimu
 C:\Users\Hp\Documents\Programming\App Development\Notes\Notes.iOS\obj\iPhoneSimulator\Debug\Notes.iOS.csproj.CopyComplete
 C:\Users\Hp\Documents\Programming\App Development\Notes\Notes.iOS\obj\iPhoneSimulator\Debug\Notes.iOS.exe
 C:\Users\Hp\Documents\Programming\App Development\Notes\Notes.iOS\obj\iPhoneSimulator\Debug\Notes.iOS.pdb
+C:\Users\Hp\Documents\Programming\App Development\Notes\Notes.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
+C:\Users\Hp\Documents\Programming\App Development\Notes\Notes.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Hp\Documents\Programming\App Development\Notes\Notes.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Hp\Documents\Programming\App Development\Notes\Notes.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.core.dll
+C:\Users\Hp\Documents\Programming\App Development\Notes\Notes.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.provider.sqlite3.dll

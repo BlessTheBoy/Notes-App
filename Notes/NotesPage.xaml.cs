@@ -8,6 +8,7 @@ using System.IO;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using Notes.Models;
+using Notes.Data;
 
 namespace Notes
 {
@@ -19,24 +20,11 @@ namespace Notes
             InitializeComponent();
         }
 
-        protected override void OnAppearing()
+        protected override async void OnAppearing()
         {
             base.OnAppearing();
 
-            var notes = new List<Note>();
-
-            var files = Directory.EnumerateFiles(App.FolderPath, "*.notes.txt");
-            foreach (var filename in files)
-            {
-                notes.Add(new Note
-                {
-                    FileName = filename,
-                    Text = File.ReadAllText(filename),
-                    Date = File.GetCreationTime(filename)
-                }) ;
-            }
-
-            ListView.ItemsSource = notes.OrderBy(d => d.Date).ToList();
+            listView.ItemsSource = await App.Database.GetNotesAsync();
         }
 
         async void OnNoteAddedClicked(object sender, EventArgs e)

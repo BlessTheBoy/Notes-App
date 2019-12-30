@@ -7,7 +7,9 @@ C:\Users\Hp\Documents\Programming\App Development\Notes\Notes\obj\Debug\netstand
 C:\Users\Hp\Documents\Programming\App Development\Notes\Notes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Users\Hp\Documents\Programming\App Development\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
 C:\Users\Hp\Documents\Programming\App Development\Notes\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
-C:\Users\Hp\Documents\Programming\App Development\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Hp\Documents\Programming\App Development\Notes\Notes\obj\Debug\netstandard2.0\Notes.dll
 C:\Users\Hp\Documents\Programming\App Development\Notes\Notes\obj\Debug\netstandard2.0\ref\Notes.dll
 C:\Users\Hp\Documents\Programming\App Development\Notes\Notes\obj\Debug\netstandard2.0\Notes.pdb
+C:\Users\Hp\Documents\Programming\App Development\Notes\Notes\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+C:\Users\Hp\Documents\Programming\App Development\Notes\Notes\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+C:\Users\Hp\Documents\Programming\App Development\Notes\Notes\obj\Debug\netstandard2.0\XamlC.stamp
